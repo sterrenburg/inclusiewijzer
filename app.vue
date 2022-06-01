@@ -4,9 +4,8 @@
       <v-app-bar-title>De Inclusiewijzer</v-app-bar-title>
     </v-app-bar>
     <v-main>
-      <v-card min-height="500px">
-        <v-card-text>Content here</v-card-text>
-      </v-card>
+      <v-img src="assets/inclusiewijzer1.jpg" width="100%"></v-img>
+
     </v-main>
     <v-footer theme="dark"><span class="mx-auto text-caption"><a href="https://www.linkedin.com/in/myrthe-sterrenburg"
           target="_blank">🌸
