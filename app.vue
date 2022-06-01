@@ -6,7 +6,7 @@
       <code-menu></code-menu>
     </v-app-bar>
     <v-main>
-      <v-img src="assets/inclusiewijzer1.jpg" width="100%"></v-img>
+      <v-img src="public/inclusiewijzer1.jpg" width="100%"></v-img>
     </v-main>
     <v-footer theme="dark"><span class="mx-auto my-4 text-caption"><a
           href="https://www.linkedin.com/in/myrthe-sterrenburg" target="_blank">🌸

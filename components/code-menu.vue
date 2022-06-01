@@ -6,7 +6,7 @@
         </template>
 
         <v-card width="300" class="code">
-            <v-img src="assets/qr-code.png"></v-img>
+            <v-img src="public/qr-code.png"></v-img>
         </v-card>
     </v-menu>
 </template>
