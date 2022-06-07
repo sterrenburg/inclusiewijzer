@@ -1,13 +1,16 @@
 <template>
     <div>
-        <v-img v-for="image in images" :src="'compressed/' + image" width="100%"></v-img>
+        <v-img src="compressed/i1.png" width="100%"></v-img>
+
+        <template v-for="image in images">
+            <v-img :src="'compressed/' + image" width="100%" class="mt-8"></v-img>
+        </template>
 
     </div>
 </template>
 
 <script setup lang="ts">
 const images = [
-    "i1.png",
     "i2.png",
     "i3.png",
     "i4.png",

@@ -2,10 +2,9 @@
   <v-app>
     <v-app-bar theme="dark" flat>
       <v-app-bar-title>De Inclusiewijzer</v-app-bar-title>
-      <v-spacer></v-spacer>
       <code-menu></code-menu>
     </v-app-bar>
-    <v-main>
+    <v-main class="bg">
       <inclusie-wijzer></inclusie-wijzer>
     </v-main>
     <v-footer theme="dark"><span class="mx-auto my-4 text-caption"><a
@@ -18,4 +17,6 @@
 a {
   text-decoration: none;
 }
+
+.bg {}
 </style>
