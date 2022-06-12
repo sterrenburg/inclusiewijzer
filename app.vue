@@ -2,6 +2,7 @@
   <v-app>
     <v-app-bar theme="dark" flat>
       <v-app-bar-title>De Inclusiewijzer</v-app-bar-title>
+      <v-btn icon="mdi-help" title="Bekijk handleiding" href="/handleiding_inclusiewijzer.pdf" target="_blank"></v-btn>
       <code-menu></code-menu>
     </v-app-bar>
     <v-main class="bg">
