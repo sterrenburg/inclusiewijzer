@@ -20,6 +20,8 @@ const images = [
     "i8.png",
     "i9.png",
     "i10.png",
+    "i11.png",
+    "i12.png",
 ];
 </script>
 
