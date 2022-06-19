@@ -1,5 +1,5 @@
 <template>
-    <v-btn icon="mdi-file-pdf-box" title="Bekijk PDF" href="/de_inclusiewijzer.pdf" target="_blank"></v-btn>
+    <v-btn title="Bekijk PDF" href="/de_inclusiewijzer.pdf" target="_blank">Inclusiewijzer</v-btn>
 </template>
 
 <script setup lang="ts">
